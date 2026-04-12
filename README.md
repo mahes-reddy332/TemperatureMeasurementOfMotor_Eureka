@@ -1,3 +1,5 @@
+
+
 # Real-Time PMSM Magnet Temperature Estimation System
 
 **Hybrid physics + observer + AI estimation for live permanent-magnet synchronous motor thermal monitoring.**
@@ -68,6 +70,8 @@ LPTN Thermal Model            EKF / Flux Observer
 
 ---
 
+<img width="3277" height="2564" alt="validation_summary" src="https://github.com/user-attachments/assets/05b4898d-994d-4079-92fe-f82e11bddc24" />
+
 ## ⚙️ Tech Stack
 
 ### Frontend
@@ -92,6 +96,8 @@ LPTN Thermal Model            EKF / Flux Observer
 - Live state indicators and fault injection controls
 
 ---
+
+<img width="3277" height="4304" alt="afto_simulation_results" src="https://github.com/user-attachments/assets/fc027a0f-b082-4f8f-97cf-cabb254ef044" />
 
 ## 🚀 Features
 
@@ -166,9 +172,6 @@ The UI includes:
 
 Replace the following placeholders with exported screenshots from your app:
 
-![System architecture placeholder](./docs/images/system-architecture.png)
-![Live dashboard placeholder](./docs/images/live-dashboard.png)
-![Telemetry trends placeholder](./docs/images/telemetry-trends.png)
 
 ### Suggested screenshots to include
 - Flow diagram in normal mode
